@@ -1,0 +1,33 @@
+header {
+    color: white;
+    background-image: linear-gradient(to bottom, #39CB79, #1A5C38);
+    padding: 1px;
+    margin: 0px;
+}
+
+nav > a {
+    color: white;
+    text-decoration: none;
+    margin: 15px;
+
+}
+
+
+body {
+    background-color: #84E1AD;
+}
+
+#principal {
+    text-align: center;
+}
+
+.p1 {
+    text-align: center;
+}
+
+article {
+    background-color: white;
+    text-align: justify;
+    margin: 10px;
+    padding: 5px;
+}
